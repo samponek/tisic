@@ -1,0 +1,20 @@
+h1
+{
+    font-size: 100px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #555;
+    outline: #000;
+    text-shadow: slategray;
+}
+
+h1:hover
+{
+    animation-range: 200px;
+    animation-direction: normal;
+    color: #a46114;
+    transition-duration: 10s;
+    outline-color: black;
+    outline:auto;
+    font-size: 150%;
+}
